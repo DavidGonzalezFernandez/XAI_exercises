@@ -8,6 +8,6 @@ In this repository, you will find the implementation of various exercises and pr
 
 ## Team Members
 
-- [@David González Fernández](https://github.com/DavidGonzalezFernandez/)
-- [@Sergio Arroni del Riego](https://github.com/SergioArroni)
-- [@Lidia Abad Azcutia](https://github.com/lidiaabad)
+- [David González Fernández](https://github.com/DavidGonzalezFernandez/)
+- [Sergio Arroni del Riego](https://github.com/SergioArroni)
+- [Lidia Abad Azcutia](https://github.com/lidiaabad)
